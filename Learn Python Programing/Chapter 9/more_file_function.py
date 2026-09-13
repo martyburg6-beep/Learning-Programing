@@ -1,0 +1,5 @@
+f =open("file.txt")
+lines =f.readline()
+f.readlines()
+print(lines)
+f.close()

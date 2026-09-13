@@ -1,0 +1,17 @@
+furits =[]
+f1 = input ("enter furit name:")
+furits.append(f1)
+f2 = input ("enter furit name:")
+furits.append(f1)
+f3 = input ("enter furit name:")
+furits.append(f3)
+f4 = input ("enter furit name:")
+furits.append(f4)
+f5 = input ("enter furit name:")
+furits.append(f5)
+f6= input ("enter furit name:")
+furits.append(f6)
+f7 = input ("enter furit name:")
+furits.append(f7)
+
+print (furits)
